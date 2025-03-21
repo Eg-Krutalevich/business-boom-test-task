@@ -1,4 +1,4 @@
-# easm-test-ui
+# business-boom-test-task
 Тестовое задание на позицию QA
 
 # Используемые технологии
