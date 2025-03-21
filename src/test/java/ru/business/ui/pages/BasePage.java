@@ -5,8 +5,6 @@ import com.codeborne.selenide.WebDriverRunner;
 import io.qameta.allure.Step;
 import ru.business.ui.constants.BaseUri;
 
-import static com.codeborne.selenide.Selenide.open;
-
 public class BasePage {
 
     @Step("Открыть главную страницу")
